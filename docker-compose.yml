@@ -1,0 +1,27 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      - DATABASE_PATH=/data/grc_learning.db
+      - VIDEO_DATA_DIR=/video_data
+      - APPROVED_WORKFLOWS_DIR=/approved_workflows
+    volumes:
+      - ./video_data:/video_data:ro
+      - ./approved_workflows:/approved_workflows
+      - db_data:/data
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  db_data:

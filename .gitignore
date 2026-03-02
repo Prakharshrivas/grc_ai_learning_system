@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+
+# Database
+*.db
+
+# Environment
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Video data (large media files)
+video_data/*.mp4
+video_data/*.mkv
+video_data/*.avi
+video_data/processed/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

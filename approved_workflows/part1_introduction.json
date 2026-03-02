@@ -1,0 +1,114 @@
+{
+  "title": "Practical GRC Series 1: Introduction to GRC",
+  "purpose": "This workflow provides a foundational understanding of Governance, Risk, and Compliance (GRC), explaining its core components and its importance in aligning Information Technology (IT) with business objectives while adhering to industry and government regulations. It serves as the first part of a series aimed at developing GRC consultants.",
+  "estimated_time": "2-3 minutes",
+  "roles": [
+    "GRC Aspirant",
+    "IT Professional",
+    "Compliance Officer",
+    "Business Leader"
+  ],
+  "prerequisites": "Basic familiarity with business operations and IT concepts is beneficial. No prior GRC knowledge is strictly required for this introductory session.",
+  "steps": [
+    {
+      "step_number": 1,
+      "start_time": "00:00",
+      "end_time": "00:50",
+      "title": "Series Introduction and Presenter Welcome",
+      "navigation": "N/A (Presentation slide)",
+      "on_screen": "A title slide is displayed with 'Practical GRC Series 1' at the top. Below it, 'Governance', 'Risk Management', and 'Compliance' are listed. The presenter's name 'Prabh' is shown, followed by a list of certifications: 'CISSP-ISSAP ISSMP | CCSP | CSSLP | CISM | CRISC | CISA | CDPSE | CIPM | CIPT'. The background features a blue watercolor design.",
+      "action": "The user watches the introductory slide and listens to the presenter's welcome and overview of the series.",
+      "narration": "Hello team, welcome to my session on Coffee with Prabh and today we're going to discuss about the GRC practical series. This is a new series which I started in 2023 and with the vision of producing more and more great consultant in the industry. This series can be very useful for those aspirants who preparing for the GRC job. And I's sure from this video they get the great understanding about the GRC. If you new to the channel, do subscribe to our YouTube channel and click on the bell icon to make sure you should not miss my future videos on a GRC because this is basically divided into small small parts. And today I'm just going to cover the basics and introduction of GRC. My name is Prabh Nayar, for more information you can refer my LinkedIn profile. Without wasting a time, let's start with the first part. Thank you.",
+      "important_notes": "This step introduces the 'Practical GRC Series' and its objective to train GRC consultants. It also encourages viewers to subscribe for future parts of the series."
+    },
+    {
+      "step_number": 2,
+      "start_time": "00:50",
+      "end_time": "01:11",
+      "title": "Presenter and Show Branding",
+      "navigation": "N/A (Live video and animated sequence)",
+      "on_screen": "The presenter, Prabh Nayar, is shown speaking directly to the camera, wearing a suit and glasses, with an 'INFOSEC TRAIN' lanyard. This transitions into animated title sequences for 'PRABH SHOW' (featuring a microphone) and 'COFFEE WITH PRABH' (featuring headphones), set against vibrant yellow and teal backgrounds with glitch effects.",
+      "action": "The user watches the presenter's self-introduction and the animated branding for the 'Prabh Show' series.",
+      "narration": "Hello everyone, my name is Prabh Nayar and I'm working as a Chief Instructor at Infosec Train.",
+      "important_notes": "This segment formally introduces the speaker and the visual identity of the 'Coffee with Prabh' series."
+    },
+    {
+      "step_number": 3,
+      "start_time": "01:11",
+      "end_time": "02:02",
+      "title": "Defining Governance, Risk, and Compliance (GRC)",
+      "navigation": "N/A (Presentation slide)",
+      "on_screen": "A slide titled 'Introduction' is displayed on the left with an orange background. On the right, against a white background, the definition of GRC is presented: 'Governance, Risk, and Compliance (GRC) is a structured way to align IT with business goals while managing risks and meeting all industry and government regulations'. A decorative dotted yellow line is in the bottom right corner.",
+      "action": "The user reads the definition of GRC and listens to the presenter's detailed explanation of its components and purpose.",
+      "narration": "So before we going in detail about GRC, let's understand the full form of GRC. So GRC basically stand for Governance, Risk, and Compliance. Or you can say Governance, Risk Management, and Compliance. So it is a structured way to align the IT with the business goals while managing a risk and meeting all industry and and government regulation. So GRC is a framework, GRC is a process, uh by which we can able to align the IT with the business goals while managing the risk and meeting all the industry and government regulation. So before going to discuss in detail, let me explain you why we need a GRC. What is the reason that okay this is a very buzz word uh in the industry. So I have one video, with that video I'm going to share you the importance of the GRC in the organization, okay? Let's play that video.",
+      "important_notes": "This step clarifies the acronym GRC and explains its fundamental role as a framework and process for integrating IT with business objectives, risk management, and regulatory adherence."
+    },
+    {
+      "step_number": 4,
+      "start_time": "02:02",
+      "end_time": "02:05",
+      "title": "Transition to GRC Importance (Video Cut-off)",
+      "navigation": "N/A (Video player window)",
+      "on_screen": "A video player window appears, briefly showing a clip of a man running on a street. The video abruptly ends before the content related to GRC importance can be fully presented.",
+      "action": "The user observes the brief, incomplete video clip.",
+      "narration": "(No narration during this segment, only the video clip plays briefly.)",
+      "important_notes": "This step was intended to illustrate the importance of GRC in an organization but was cut short, indicating an incomplete segment in the provided video."
+    }
+  ],
+  "summary": "This introductory video, part of the 'Practical GRC Series 1' by Prabh Nayar, defines Governance, Risk, and Compliance (GRC) as a structured approach to align IT with business goals, manage risks, and ensure adherence to industry and government regulations. The presenter outlines the series' aim to develop GRC consultants and encourages audience engagement. The session concludes with an attempt to demonstrate the practical importance of GRC through a video, which is unfortunately cut short.",
+  "faqs": [
+    {
+      "question": "What does GRC stand for?",
+      "answer": "GRC stands for Governance, Risk, and Compliance, or sometimes Governance, Risk Management, and Compliance.",
+      "related_step": 3
+    },
+    {
+      "question": "What is the primary purpose of GRC?",
+      "answer": "GRC is a structured way to align IT with business goals, manage risks effectively, and ensure that an organization meets all relevant industry and government regulations.",
+      "related_step": 3
+    },
+    {
+      "question": "Is GRC a framework or a process?",
+      "answer": "According to the video, GRC is both a framework and a process designed to help organizations achieve their objectives while managing risks and complying with regulations.",
+      "related_step": 3
+    },
+    {
+      "question": "Who is the presenter of this GRC series?",
+      "answer": "The presenter is Prabh Nayar, who works as a Chief Instructor at Infosec Train.",
+      "related_step": 1
+    },
+    {
+      "question": "What is the target audience for the 'Practical GRC Series'?",
+      "answer": "The series is particularly useful for aspirants preparing for GRC jobs and aims to produce more great consultants in the industry.",
+      "related_step": 1
+    },
+    {
+      "question": "Where can I find more information about the presenter, Prabh Nayar?",
+      "answer": "The presenter suggests referring to his LinkedIn profile for more information.",
+      "related_step": 1
+    },
+    {
+      "question": "Will there be more videos in this GRC series?",
+      "answer": "Yes, the presenter states that the series is divided into small parts, implying future videos on GRC topics.",
+      "related_step": 1
+    },
+    {
+      "question": "Why is GRC considered a 'buzzword' in the industry?",
+      "answer": "The presenter mentions GRC as a 'buzzword' due to its growing importance and relevance in aligning IT with business goals, managing risks, and ensuring regulatory compliance.",
+      "related_step": 3
+    },
+    {
+      "question": "What was the purpose of the video clip shown at the end?",
+      "answer": "The video clip was intended to share the importance of GRC in an organization, but it was cut short in the provided recording.",
+      "related_step": 3
+    },
+    {
+      "question": "How does GRC help align IT with business goals?",
+      "answer": "GRC provides a structured approach to ensure that IT strategies and operations support overall business objectives, while also managing associated risks and adhering to compliance requirements.",
+      "related_step": 3
+    }
+  ],
+  "video_duration": 1013,
+  "source_video": "GRC Practical Approach - Part 1 Introduction - Prabh Nair (720p, h264).mp4",
+  "status": "draft"
+}

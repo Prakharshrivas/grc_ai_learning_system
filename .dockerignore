@@ -1,0 +1,9 @@
+**/.git
+**/.DS_Store
+**/node_modules
+**/dist
+**/__pycache__
+**/*.pyc
+*.db
+video_data/processed/
+.env
